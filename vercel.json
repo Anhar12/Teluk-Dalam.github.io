@@ -15,15 +15,5 @@
         { "key": "X-Frame-Options", "value": "DENY" }
       ]
     }
-  ],
-  "env": {
-    "DATABASE_URL": "your-database-url",
-    "API_KEY": "your-api-key"
-  },
-  "functions": {
-    "api/index.js": {
-      "memory": 128,
-      "maxDuration": 5
-    }
-  }
+  ]
 }
