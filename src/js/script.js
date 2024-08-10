@@ -86,14 +86,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
 window.onscroll = function() {
     const header = document.querySelector('header');
+    const scrollToTopButton = document.getElementById('scrollToTop');
     const fixedNav = header.offsetTop;
 
-    if (window.pageYOffset > fixedNav){
+    if (window.pageYOffset > fixedNav) {
         header.classList.add('navbar-fixed');
+        scrollToTopButton.classList.remove('opacity-0');
+        scrollToTopButton.classList.add('opacity-100');
     } else {
         header.classList.remove('navbar-fixed');
+        scrollToTopButton.classList.remove('opacity-100');
+        scrollToTopButton.classList.add('opacity-0');
     }
-}
+};
+
+document.getElementById('scrollToTop').addEventListener('click', () => {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+});
 
 // hamburger
 document.addEventListener('DOMContentLoaded', (event) => {
