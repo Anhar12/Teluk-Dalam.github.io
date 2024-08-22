@@ -44,3 +44,7 @@ html {
 #sidebarMenu.close {
     transform: translateX(-100%);
 }
+
+.list-upper-alpha {
+    list-style-type: upper-alpha;
+}
