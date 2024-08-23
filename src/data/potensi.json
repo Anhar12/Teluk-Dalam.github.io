@@ -4,76 +4,23 @@
         "judul": "Potensi Bisnis Produk",
         "isi": "Kelurahan Teluk Dalam memiliki beragam potensi bisnis yang dapat dikembangkan oleh masyarakat setempat. Dengan memanfaatkan sumber daya alam yang tersedia dan kearifan lokal, kelurahan dapat menjadi pusat berbagai usaha produktif yang bernilai ekonomi tinggi. Contohnya, pembuatan kue kering dapat dioptimalkan dengan bahan baku lokal dan resep tradisional yang menarik minat konsumen. Selain itu, budidaya lebah madu juga menjadi peluang bisnis yang menguntungkan, mengingat permintaan pasar yang terus meningkat terhadap produk-produk alami dan menyehatkan. Dengan inovasi, pelatihan, dan dukungan dari berbagai pihak, kelurahan bisa menjadi kawasan yang mandiri dan sejahtera melalui pengembangan usaha-usaha lokal ini .",
         "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli 2024",
+        "tanggal": "19 Agustus 2024",
         "jenis": "Potensi Produk"
     },
     {
         "id": 2,
-        "judul": "Potensi Kedua",
-        "isi": "**Potensi Peternakan di Kelurahan Teluk Dalam**
-
-Kelurahan Teluk Dalam memiliki potensi besar dalam bidang peternakan yang beragam, mencakup peternakan unggas, sapi, kambing, kerbau, dan burung walet. Dengan kondisi geografis yang mendukung serta ketersediaan lahan yang cukup luas, kelurahan ini dapat mengembangkan berbagai jenis peternakan untuk meningkatkan kesejahteraan ekonomi masyarakat. Peternakan di Kelurahan Teluk Dalam juga diisi oleh berbagai jenis hewan ternak yang menunjukkan potensi ekonomi yang beragam. Peternak di wilayah ini telah berhasil mengembangkan usaha mereka dengan baik, memanfaatkan lahan dan sumber daya yang tersedia. Berikut adalah daftar potensi peternakan di Kelurahan Teluk Dalam:
-
-### Daftar Potensi Peternakan di Kelurahan Teluk Dalam
-
-1. **Supardi**:
-   - Rumah burung walet berukuran 4x8 meter.
-   - 5.000 ekor ayam.
-
-2. **Rahman**:
-   - 40 ekor kambing.
-   - 10 ekor sapi.
-
-3. **Tomi**:
-   - 27 ekor sapi.
-
-4. **Agus Effendi**:
-   - 5 ekor sapi.
-
-5. **Beni**:
-   - 3 ekor sapi betina.
-
-6. **H. Ipin**:
-   - 37 ekor kerbau.
-
-7. **Aliansyah**:
-   - 16 ekor sapi.
-
-Kelurahan Teluk Dalam menunjukkan keberagaman usaha peternakan yang tidak hanya fokus pada satu jenis hewan, tetapi mencakup berbagai jenis yang dapat memberikan kontribusi ekonomi yang beragam bagi masyarakat. Hal ini menunjukkan adanya peluang besar untuk pengembangan lebih lanjut melalui pelatihan, akses pasar yang lebih baik, dan dukungan teknologi dalam pengelolaan peternakan.",
+        "judul": "Potensi Peternakan",
+        "isi": "Kelurahan Teluk Dalam memiliki potensi peternakan yang sangat beragam dan berkembang pesat, sebagaimana data yang diperoleh pada tahun 2024. Di kelurahan ini, peternakan unggas dan ternak besar menjadi fokus utama masyarakat. Supardi mengelola sebuah rumah burung walet berukuran 4x8 meter dan memelihara 5.000 ekor ayam, menunjukkan potensi besar di bidang peternakan unggas dan burung walet. Rahman, dengan 40 ekor kambing dan 10 ekor sapi, menunjukkan keahlian dalam mengelola peternakan kambing dan sapi. Tomi memelihara 27 ekor sapi, sementara Agus Effendi memiliki 5 ekor sapi, dan Beni dengan 3 ekor sapi betina, menunjukkan keberagaman dalam peternakan sapi di kelurahan ini. H. Ipin mengelola 37 ekor kerbau, menambah variasi dalam jenis ternak yang dikelola di Teluk Dalam, dan Aliansyah juga memperkuat sektor peternakan sapi dengan memelihara 16 ekor. Keberagaman dalam jenis dan skala peternakan ini mencerminkan potensi besar Kelurahan Teluk Dalam dalam mengembangkan sektor peternakan yang lebih maju dan berkelanjutan.",
         "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli 2024",
-        "jenis": "Potensi Perkebunan"
-    },
-    {
-        "id": 3,
-        "judul": "Potensi Ketiga",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust 2024",
+        "tanggal": "22 Agustus 2024",
         "jenis": "Potensi Peternakan"
     },
     {
-        "id": 4,
-        "judul": "Potensi Keempat",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli 2024",
-        "jenis": "Potensi Perikanan"
-    },
-    {
-        "id": 5,
-        "judul": "Potensi Kelima",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli 2024",
-        "jenis": "Potensi Perdagangan"
-    },
-    {
-        "id": 6,
-        "judul": "Potensi Keenam",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "id": 3,
+        "judul": "Potensi Perkebunan",
+        "isi": "Kelurahan Teluk Dalam memiliki potensi besar dalam sektor perkebunan, dengan berbagai jenis tanaman yang dikelola oleh masyarakat setempat. Berdasarkan data tahun 2024, perkebunan kelapa sawit dan karet menjadi dominan di wilayah ini, didukung oleh lahan yang luas dan pengelolaan yang beragam. Saleh, yang berada di RT 3, mengelola 13,5 hektar lahan dengan tanaman sawit dan karet. Jinton Hasilan Purba (MJP) dan Rayuni Taurus (MJP) masing-masing memiliki 8 hektar perkebunan sawit, sementara La Juma (MJU) mengelola 10 hektar sawit. H. Alimudin di RT 3 memiliki 2,5 hektar yang ditanami mayoritas karet dan pohon buah, dan Ahmad Hamadin dengan 4 hektar serta Siti Khatimah dengan 1,2 hektar mengelola lahan yang berisi tanaman karet dan buah-buahan. H. Alwi mengelola lahan yang cukup luas, yaitu 71 hektar yang terdiri dari sawit dan karet, sementara Hasyim (MJP) mengelola 5 hektar dengan kombinasi yang sama. Awaludin Sinegar dari RT 4 mengelola 3 hektar sawit, sedangkan Abdul Sani (MJU) memiliki 30 hektar yang ditanami karet dan pohon buah. Hatta di RT 1 fokus pada 12 hektar lahan sawit, dan Syahrudin Dalle dari RT 5 mengelola 0,75 hektar pohon buah dan pohon kelapa. Jauhari (MJU) mengelola 10,5 hektar pohon buah, dan Rahman, Ketua RT 6, mengelola 25 hektar yang terdiri dari sawit, sengon, dan pohon buah. Yatiman dari RT 4 memiliki 7,7 hektar yang ditanami karet, pohon buah, dan sawit, sedangkan Nispuansyah mengelola 7,5 hektar yang berisi sawit, sengon, dan pohon buah. Ruka dari RT 2 memiliki 46 hektar yang ditanami sawit dan pohon buah, sementara Ruben (MJP) mengelola 8 hektar lahan sawit dan karet. Jaffar Abdugafar memiliki 50 hektar perkebunan sawit, yang menjadi salah satu yang terbesar di kelurahan ini. Kartini mengelola 3 hektar dengan mayoritas karet dan pohon buah, dan Asbun memiliki 2,4 hektar yang terdiri dari karet dan buah. Keberagaman tanaman dan skala pengelolaan lahan ini menunjukkan potensi besar Kelurahan Teluk Dalam dalam mengembangkan sektor perkebunan yang beragam dan produktif.",
         "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust 2024",
-        "jenis": "Potensi Pertambangan"
-    }
+        "tanggal": "20 Agustus 2024",
+        "jenis": "Potensi Perkebunan"
+   }
 ]
