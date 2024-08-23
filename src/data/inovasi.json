@@ -1,50 +1,27 @@
 [
     {
         "id": 1,
-        "judul": "Inovasi Pertama",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Sistem Upaya Pemberdayaan Masyarakat Pra Sejahtera menjadi Sejahtera (Supermesra)",
+        "isi": "Supermesra merupakan program kerja yang diinisiasi untuk menanggulangi tingginya tingkat kemiskinan di Kelurahan Teluk Dalam. Mekanisme program Supermesra adalah dengan memberdayakan warga miskin di Kelurahan Teluk Dalam melalui kerja sama antara pihak kelurahan dan perusahaan swasta. Program ini memberikan bantuan berupa tambak ikan lele kepada warga miskin untuk membantu meningkatkan perekonomian mereka. Namun, sayangnya program ini tidak berjalan dengan lancar. Tambak ikan yang diberikan tidak dapat berkelanjutan karena dana hasil panen pertama kali langsung habis digunakan untuk memenuhi kebutuhan hidup sehari-hari. Hal ini menyebabkan tidak adanya dana yang tersisa untuk mengelola tambak lebih lanjut, sehingga program Supermesra tidak mencapai tujuan yang diharapkan.",
         "gambar": "src/img/slide1.jpg",
         "tanggal": "30 Juli 2024",
-        "jenis": "Inovasi Bisnis"
+        "jenis": "SUPERMESRA"
     },
     {
         "id": 2,
-        "judul": "Inovasi Kedua",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Sistem Upaya Pemberdayaan Masyarakat Miskin (Supermi)",
+        "isi": "Supermi merupakan lanjutan dari Supermesra yaitu memberdayakan masyarakat dengan cara mengentaskan kemiskinan dalam bidang pendidikan dan kesehatan. Inti dari Supermi dalam mengatasi kemiskinan yakni memberikan bantuan beasiswa setiap tahunnya kepada siswa SD dan SMP yang kurang mampu. Sedangkan dalam bidang kesehatan yaitu mengatasi permasalahan anak stunting yang ada di kelurahan Teluk Dalam.",
         "gambar": "src/img/slide2.jpg",
         "tanggal": "31 Juli 2024",
-        "jenis": "Inovasi Perkebunan"
+        "jenis": "SUPERMI"
     },
     {
         "id": 3,
-        "judul": "Inovasi Ketiga",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Gerakan Orang Tua Asuh Anak Stunting (Gotaas)",
+        "isi": "Gotaas merupakan program kerja yang diadakan untuk mengatasi permasalahan anak stunting yang ada di kelurahan teluk dalam.GOTAAS sendiri merupakan sebuah program berupa intervensi gizi spesifik kepada balita stunting dengan pemberian makanan lokal tinggi protein hewani selama 2 bulan yang dikelola oleh tim GOTAAS dan dimasak berdasarkan menu yang telah direkomendasikan oleh Dinas Kesehatan Kecamatan Muara Jawa yang bertujuan untuk meningkatkan status gizi balita yang terindikasi stunting di Kelurahan Teluk Dalam.  Diharapkan melalui program ini, Kelurahan Teluk Dalam mampu mencapai angka zero stunting. ",
         "gambar": "src/img/slide3.jpg",
         "tanggal": "1 Agust 2024",
-        "jenis": "Inovasi Peternakan"
-    },
-    {
-        "id": 4,
-        "judul": "Inovasi Keempat",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli 2024",
-        "jenis": "Inovasi Perikanan"
-    },
-    {
-        "id": 5,
-        "judul": "Inovasi Kelima",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli 2024",
-        "jenis": "Inovasi Perdagangan"
-    },
-    {
-        "id": 6,
-        "judul": "Inovasi Keenam",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust 2024",
-        "jenis": "Inovasi Pertambangan"
+        "jenis": "GOTAAS"
+    
     }
 ]
