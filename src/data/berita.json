@@ -1,44 +1,31 @@
 [
     {
         "id": 1,
-        "judul": "Berita Pertama",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Program GOTAAS (Gerakan Orang Tua Asuh Anak Stunting)",
+        "isi": "Telah dilakukannya peluncuran kedua dari program GOTAAS (Gerakan Orang Tua Asuh Anak Stunting) pada Jum’at, 19 Juli 2024. Acara ini dilaksanakan di Gedung Serbaguna Kelurahan Teluk Dalam, Kecamatan Muara Jawa, Kutai Kartanegara. Peluncuran GOTAAS kali ini dihadiri oleh sejumlah pihak, seperti Bapak Camat Muara Jawa, Bapak Lurah Teluk Dalam, dan Babinsa. GOTAAS sendiri merupakan program yang diresmikan oleh Bapak Camat Muara Jawa, Muhammad Ramli dalam rangka menurunkan angka stunting di wilayah Kecamatan Muara Jawa. GOTAAS sendiri adalah sebuah program berupa intervensi gizi spesifik kepada balita stunting dengan pemberian makanan lokal tinggi protein hewani selama 2 bulan yang dikelola oleh tim GOTAAS yang dimasak berdasarkan menu yang direkomendasikan oleh Dinas Kesehatan Kecamatan Muara Jawa yang bertujuan untuk meningkatkan status gizi balita yang terindikasi Stunting di Kelurahan Teluk Dalam.",
         "gambar": "src/img/slide1.jpg",
         "tanggal": "30 Juli, 2024"
     },
     {
         "id": 2,
-        "judul": "Berita Kedua",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli, 2024"
+        "judul": "Sosialisasi Pemanfaatan Air Sungai Dondang (PLTU MUARA JAWA)",
+        "isi": "Pada hari Selasa, 30 Juli 2024, PT Indo Ridlatama Power (PLTU Muara Jawa) mengadakan sosialisasi kepada masyarakat Kelurahan Teluk Dalam mengenai pemanfaatan air sungai Teluk Dalam untuk kebutuhan operasional PLTU Muara Jawa. Sosialisasi ini bertujuan untuk memberikan pemahaman kepada masyarakat, terutama nelayan yang bergantung pada sungai, tentang rencana penggunaan air sungai yang akan diolah melalui proses filtrasi agar memenuhi standar operasional PLTU. Kegiatan ini dihadiri oleh Perwakilan IRP, Perangkat Desa Kelurahan Teluk Dalam, Masyarakat sekitar PLTU, Perwakilan Nelayan, serta Lembaga Pemberdayaan Masyarakat (LPM). Dalam sosialisasi tersebut, masyarakat Kelurahan Teluk Dalam mendapat penjelasan mendetail terkait latar belakang, tujuan, serta proses pemanfaatan air sungai Teluk Dalam baik sebelum maupun sesudah pemanfaatan. Masyarakat yang hadir memahami pentingnya langkah ini untuk mendukung operasional PLTU Muara Jawa, sekaligus memastikan keberlanjutan sumber daya air bagi kebutuhan mereka sebagai pengguna sungai. Kegiatan ini menjadi wadah komunikasi antara pihak perusahaan dan masyarakat untuk memastikan semua pihak terlibat dalam pengelolaan sumber daya air secara berkelanjutan.",
+        "gambar": "src/img/slide3.jpg",
+        "tanggal": "30 Juli 2024"
     },
     {
         "id": 3,
-        "judul": "Berita Ketiga",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust, 2024"
+        "judul": "Meresmikan Rumah Layak Huni",
+        "isi": "Pada hari Minggu, 11 Agustus 2024 telah dilaksanakannya program pengembangan masyarakat Rumah Layak Huni yang berada di Kelurahan Teluk Dalam Kecamatan Muara Jawa Kabupaten Kutai Kartanegara. Program tersebut diresmikan oleh Edi Damansyah sebagai Bupati Kutai Kartanegara. Program Rumah Layak Huni bertujuan sebagai salah satu cara untuk penanganan kemiskinan di wilayah Kelurahan Teluk Dalam. Program tersebut merupakan kerjasama SKK migas PT Pertamina Hulu Sanga-Sanga bekerja sama dengan pemerintah Kelurahan Teluk dalam Kecamatan Muara Jawa.",
+        "gambar": "src/img/slide2.jpg",
+        "tanggal": "11 Agustus 2024"
     },
     {
         "id": 4,
-        "judul": "Berita Keempat",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Lomba Balap Ketinting",
+        "isi": "Pada hari Minggu, 11 Agustus 2024 telah dilaksanakannya Lomba Balap Ketinting yang diadakan se-Kalimantan Timur. Acara tersebut dibuka oleh Bapak Camat Muara Jawa, Muhammad Ramli. Lomba Balap Ketinting ini merupakan acara dari Kelurahan Teluk Dalam yang dilakukan setiap tahunnya dalam rangka merayakan ulang tahun Teluk Dalam. Saat sesi final, Lomba Balap Ketinting kedatangan Bapak Edi Damansyah selaku Bupati Kutai Kartanegara. Lomba Balap Ketinting ditutup dengan sangat meriah dengan Denis dari Anggana sebagai juara 1, disusul oleh Itak dari Muara Jawa sebagai juara 2, Icang dari Embalut sebagai juara 3, dan Arya dari Marangkayu sebagai juara 4.",
         "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli, 2024"
+        "tanggal": "11 Agustus 2024"
     },
-    {
-        "id": 5,
-        "judul": "Berita Kelima",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli, 2024"
-    },
-    {
-        "id": 6,
-        "judul": "Berita Keenam",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust, 2024"
-    }
+    
 ]
