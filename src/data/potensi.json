@@ -1,11 +1,12 @@
 [
     {
         "id": 1,
-        "judul": "Potensi Pertama",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Potensi Bisnis Produk",
+        "isi": "Kelurahan Teluk Dalam memiliki beragam potensi bisnis yang dapat dikembangkan oleh masyarakat setempat. Dengan memanfaatkan sumber daya alam yang tersedia dan kearifan lokal, kelurahan dapat menjadi pusat berbagai usaha produktif yang bernilai ekonomi tinggi. Contohnya, pembuatan kue kering dapat dioptimalkan dengan bahan baku lokal dan resep tradisional yang menarik minat konsumen. Selain itu, budidaya lebah madu juga menjadi peluang bisnis yang menguntungkan, mengingat permintaan pasar yang terus meningkat terhadap produk-produk alami dan menyehatkan. Dengan inovasi, pelatihan, dan dukungan dari berbagai pihak, kelurahan bisa menjadi kawasan yang mandiri dan sejahtera melalui pengembangan usaha-usaha lokal ini .
+        <p>apa</p>",
         "gambar": "src/img/slide1.jpg",
         "tanggal": "30 Juli 2024",
-        "jenis": "Potensi Bisnis"
+        "jenis": "Potensi Produk"
     },
     {
         "id": 2,
