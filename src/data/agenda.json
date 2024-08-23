@@ -1,50 +1,19 @@
 [
     {
         "id": 1,
-        "judul": "Agenda Pertama",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Perayaan hari ulang tahun Teluk Dalam",
+        "isi": "Perayaan hari ulang tahun Teluk Dalam yang dilaksakan setiap tahun dengan kegiatan berupa open volly se-Kaltim yang dilaksanakan di lapangan volly Teluk Dalam juga lomba balap ketinting yang juga dilaksanakan untuk satu Kalimantan Timur",
         "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli 2024",
-        "lokasi": "Sungai Mahakam"
+        "tanggal": "Agustus",
+        "lokasi": "Kelurahan Teluk Dalam"
     },
     {
         "id": 2,
-        "judul": "Agenda Kedua",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
+        "judul": "Pawai Obor",
+        "isi": "Pawai obor pada 1 Muharram sebagai bentuk peringatan dan dalam rangka menyambut tahun baru islam dengan rasa syukur. Tradisi yang dilakukan setiap tahun ini bertujuan untuk mempererat tali silaturahmi antar warga Teluk Dalam dan menumbuhkan rasa kepedulian sosial",
         "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli 2024",
-        "lokasi": "Sungai Karang Mumus"
-    },
-    {
-        "id": 3,
-        "judul": "Agenda Ketiga",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust 2024",
-        "lokasi": "AWS Gang 1"
-    },
-    {
-        "id": 4,
-        "judul": "Agenda Keempat",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide1.jpg",
-        "tanggal": "30 Juli 2024",
-        "lokasi": "Rumdin slebew uhuy"
-    },
-    {
-        "id": 5,
-        "judul": "Agenda Kelima",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide2.jpg",
-        "tanggal": "31 Juli 2024",
-        "lokasi": "UnMul wall ay"
-    },
-    {
-        "id": 6,
-        "judul": "Agenda Keenam",
-        "isi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis error provident mollitia eum impedit saepe ea adipisci, nemo necessitatibus. Nobis deleniti, exercitationem magni cupiditate illo facilis facere accusantium sapiente quis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic nisi iusto quaerat tempore dolores reprehenderit necessitatibus, modi repudiandae dolorem cum illo, blanditiis impedit fugit quidem voluptas vitae ea. Reiciendis, dolorem? Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus error voluptas sapiente consequuntur soluta, vero vitae libero possimus ipsa dolorum cumque molestiae excepturi rem odit repellat temporibus? Vero, velit facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad dolorum recusandae amet quae dicta, doloremque dolore perferendis consectetur tenetur in modi pariatur explicabo aut facilis eum molestiae ipsam cumque omnis!",
-        "gambar": "src/img/slide3.jpg",
-        "tanggal": "1 Agust 2024",
-        "lokasi": "Tenggarong"
+        "tanggal": "1 Muharram",
+        "lokasi": "Kelurahan Teluk Dalam"
+    
     }
 ]
